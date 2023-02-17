@@ -20,9 +20,9 @@ int main(void)
 	/* your code goes there */
 	if (n > 0)
 		printf("Positive\n", n);
-	else
-		printf("Negative\n", n);
 	else if (n == 0)
 		printf("zero\n", n);
+	else
+                printf("Negative\n", n);
 	return (0);
 }
