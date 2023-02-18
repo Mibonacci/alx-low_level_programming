@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: printing the base 16 in lowercase
+ * Description: printing every possible single number lowercased
  *
  * Return: 0
 */
