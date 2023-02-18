@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * Description: printing all the digits of base 10
+ * Description: printing all the digits from base ten
  *
  * Return: 0
  */
@@ -15,9 +15,9 @@ int main(void)
 
 	while (int <= 9)
 	{
-        printf("\n", i)
-        i++;
-    }
+		printf("%i", i)
+		++i;
+	}
 
 	return (0);
 }
