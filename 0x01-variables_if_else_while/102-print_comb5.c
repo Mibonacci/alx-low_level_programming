@@ -4,7 +4,7 @@
  * main - Entry Point
  *
  * Description: printing all possible combinations of two two digits
- * 
+ *
  * Return: 0
  */
 
