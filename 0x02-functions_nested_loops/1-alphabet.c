@@ -9,9 +9,8 @@
 
 int main(void)
 {
-	int x = a;
+	int x;
 
-	while (x <= z)
-		_putchar(x);
-		x++;
+	for (x = a; x <= z; x++)
+		_putchar(x)
 	_putchar('\n')
