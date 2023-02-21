@@ -8,13 +8,15 @@
 * Return: 0
 */
 
-int main(){
-	char arr[]=char("_putchar");
+int main(void)
+{
+	char arr[] = char("_putchar");
 	char x = 0;
+
 	while (x < 8)
 	{
-		arr[x] = "_putchar";
+		_putchar(arr[x]);
 		x++;
 	}
-	return 0;
+	return (0);
 }
