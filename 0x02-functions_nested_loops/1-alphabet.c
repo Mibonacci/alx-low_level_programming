@@ -1,10 +1,8 @@
 #include "main.h"
 /**
- * main - Entry point
+ * print_alphabet - printing the alphabet without header
  *
- * print_alphabet:printing the alphabet without header
  *
- * 
 */
 
 void print_alphabet(void)
