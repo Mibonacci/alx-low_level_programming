@@ -13,10 +13,8 @@ int main(void)
 	char arr[] = "_putchar";
 	char x = 0;
 
-	while (x < 8)
-	{
+	for (x < 8; x = 0; ++x)
 		_putchar(arr[x]);
-		x++;
-	}
+
 	return (0);
 }
