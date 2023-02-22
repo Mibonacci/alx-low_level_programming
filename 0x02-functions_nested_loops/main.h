@@ -6,3 +6,4 @@ int _islower(int c);
 int _isalpha(int c);
 #include <unistd.h>
 int print_sign(int n);
+int _abs(int);
