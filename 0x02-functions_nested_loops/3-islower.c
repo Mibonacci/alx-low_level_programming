@@ -5,7 +5,7 @@
  *
  * @c: the parameter to check with
  *
- * return: function returns 1 if 'c' is lowercase and 0 if uppercase
+ * Return: function returns 1 if c is lowercase. otherwize 0
  *
  */
 
