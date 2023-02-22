@@ -23,6 +23,13 @@ int numLength(int num)
 
 	return (length);
 }
+
+/**
+ * main - again
+ * Description: first 98 fibonacci numbers
+ * Return: fucking zero
+ */
+
 int main(void)
 {
 	int count, initial0s;
