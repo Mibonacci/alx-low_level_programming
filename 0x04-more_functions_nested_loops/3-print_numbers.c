@@ -6,9 +6,10 @@
 
 void print_numbers(void);
 {
-	int x = '0';
+	int x;
 
-	while (x <= 9; x++)
+	while (x < 10)
 		_putchar(x);
+		x++;
 	_putchar(\n);
 }
