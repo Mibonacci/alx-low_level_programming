@@ -1,11 +1,11 @@
 #include<stdio.h>
 
 /**
- * fizzbuzz - print fizz and buzz with conditions
+ * main - print fizz and buzz with conditions
  * Return: zero
  */
 
-int fizzbuzz(void)
+int main(void)
 {
 	int n;
 
