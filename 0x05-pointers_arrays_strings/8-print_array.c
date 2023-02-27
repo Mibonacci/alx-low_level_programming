@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *
- *
- *
+ * print_array - printing the element of an array
+ * @a: first parameter
+ * @n: second parameter
  */
 
 void print_array(int *a, int n)
