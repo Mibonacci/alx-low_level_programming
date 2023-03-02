@@ -4,6 +4,7 @@
  * *_strncat - similar to strcat but with limited number of n
  * @dest: first string
  * @src: second string
+ * @n: the limit
  * Return: dest
  */
 
