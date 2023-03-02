@@ -17,8 +17,8 @@ while (dest[x])
 	x++;
 	dest[x] = ' ';
 }
-	y = 0;
-	while (src[y])
+y = 0;	
+while (src[y])
 {
 	dest[x] = src[y];
 	y++;
